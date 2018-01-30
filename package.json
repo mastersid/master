@@ -1,0 +1,19 @@
+{
+  "name": "master",
+  "version": "1.0.0",
+  "description": "Приложение для webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastersid/master.git"
+  },
+  "author": "Evgeniy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mastersid/master/issues"
+  },
+  "homepage": "https://github.com/mastersid/master#readme"
+}
