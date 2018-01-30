@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/mastersid/master/issues"
   },
-  "homepage": "https://github.com/mastersid/master#readme"
+  "homepage": "https://github.com/mastersid/master#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "webpack": "^3.10.0"
+  }
 }
