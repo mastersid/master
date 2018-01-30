@@ -1,0 +1,2 @@
+# master
+Приложение для webpack
